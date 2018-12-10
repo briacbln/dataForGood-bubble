@@ -1,0 +1,11 @@
+index,racine,racine_recherche,addword,scale
+0,https://www.humanite.fr/,https://www.humanite.fr/search/,%20,-1
+1,https://www.marianne.net/,https://www.marianne.net/recherche?k=,+,-0.8
+2,https://www.liberation.fr/,https://www.liberation.fr/recherche/?sort=-publication_date_time&period=last_180&period_start_day=0&period_start_month=0&period_start_year=0&period_end_day=0&period_end_month=0&period_end_year=0&editorial_source=&paper_channel=&q=,+,"-0,6"
+3,https://www.lexpress.fr/,https://www.lexpress.fr/recherche?q=,+,"-0,4"
+4,https://www.lemonde.fr/,https://www.lemonde.fr/recherche/?page_num=1&operator=and&exclude_keywords=&qt=recherche_texte_titre&author=&period=since_1944&start_day=01&start_month=01&start_year=1944&end_day=10&end_month=12&end_year=2018&sort=desc&keywords=,+,"-0,2"
+5,https://www.la-croix.com/,https://www.la-croix.com/Recherche/,%20,"0,2"
+6,https://www.lepoint.fr/,https://www.lepoint.fr/recherche/index.php?query=,%20,"0,4"
+7,http://recherche.lefigaro.fr/,http://recherche.lefigaro.fr/recherche/,%20,"0,6"
+8,https://www.lejdd.fr/,https://www.lejdd.fr/recherche?query=,+,"0,8"
+9,https://recherche.lesechos.fr/,https://recherche.lesechos.fr/recherche.php?exec=1&texte=,+,1

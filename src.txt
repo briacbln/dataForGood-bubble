@@ -1,0 +1,128 @@
+Les echos :
+body
+  main
+    container
+      main-page
+        main-content content-page
+          liste-article
+            style-titre
+              href
+
+JDD :
+body
+  mainWrapper
+    main
+      container
+        row
+          col-md-8 aside-container
+            bloc bloc_listing
+              ul
+                li
+                  href
+
+figaro :
+body
+  page
+    fig-container
+      fig-2cols
+        fig-col fig-main-col
+          articles
+            fig-profil fig-profil-mtpd fig-profil-std univers-figaro-vox
+              fig-profil-headline
+                href
+
+Le point :
+body
+  scroller
+    scroller-inner
+      site
+        main
+          line
+            sticky-search-right
+              list-view
+                art-small
+                  row keep-cols
+                    col pls
+                      href
+
+la croix :
+body
+  row wrapper
+    col-sm-12 ng-scope
+      row content
+        search-results-list base-page
+          ng-isolate-scope
+            media ng-scope
+              media-body
+                href
+
+le monde :
+body
+  habillagepub
+    global
+      container_18 clearfix
+        grid_12 alpha
+          fleuve resultats_recherche clearfix
+            grid_12 alpha enrichi mgt8
+              grid_11 conteneur_fleuve alpha omega
+                grid_8 omega resultat
+                  txt4 120
+                    href
+
+lexpress :
+body
+  page
+    content content_list trigger_scroll
+      article_content section_wrapper
+        article_container fake_column
+          search_results
+            section section_group js_sticky_related
+              groups search_results
+                group
+                  href
+
+liberation :
+body
+  main-content
+    width-wrap
+      white-box container-column reverse-column clearfix
+        wide-column
+          live-container
+            live-items js-infinity-search-container
+              live-item clearfix
+                live-content
+                  live-content-right
+                    href
+
+marianne :
+body
+  main
+    main-container container
+      row
+        col-8
+          region region-content
+            block-system-main
+              content
+                view view-mrn-search-view view-id-mrn_search_view view-display-id-page view-dom-id-...
+                  view-content
+                    views-row views-row-1 views-row-odd views-row-first
+                      node-...
+                        article-teaser-line__wrap
+                          article-teaser-line__content
+                            href
+
+lhumanite :
+body
+  page
+    main
+      content
+        ft-search-results
+          search-results
+            search-result-group search-result-group-article
+              search-result-group
+                ds-lcol node node-article node-promoted node-rubrique-monde _rticle-payant-img rubrique- view-mode-search_result clearfix
+                  field field-name-title field-type-ds field-label-hidden
+                    field-items
+                      field-item even
+                        href
+                        
