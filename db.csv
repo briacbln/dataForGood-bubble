@@ -9,3 +9,4 @@ index,racine,racine_recherche,addword,scale,full_links,className,div
 7,http://recherche.lefigaro.fr,http://recherche.lefigaro.fr/recherche/,%20,6,True,fig-profil-headline,h2
 8,https://www.lejdd.fr,https://www.lejdd.fr/recherche?query=,+,8,False,bloc-texte,div
 9,https://recherche.lesechos.fr,https://recherche.lesechos.fr/recherche.php?exec=1&texte=,+,10,True,style-titre,h2
+10,http://recherche.nouvelobs.com,http://recherche.nouvelobs.com/?referer=nouvelobs&q=,+,-4,True,title,h2
